@@ -1,3 +1,5 @@
 "Hi trying the second commit" 
 
 adding status
+
+creating a super avatar for the user
